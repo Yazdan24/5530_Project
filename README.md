@@ -1,6 +1,7 @@
 Hello Professor Syed Jawad Hussain Shah,
 
-I hope you are doing great. /n
+I hope you are doing great.
+
 Please let me explain what I have included here :
 For this project, since the database was very large, I did not use Google Colab and ran everything locally instead.
 
